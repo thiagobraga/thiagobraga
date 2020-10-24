@@ -1,4 +1,8 @@
 ### Hi there 👋
 
-**UserStyles** 🎨
-- [Google Calendar](https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css)
+<br/>
+
+**UserStyles** 🎨<br/>
+<br/>
+
+<sup>[Google Calendar](https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css)</sup>
