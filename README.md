@@ -3,9 +3,11 @@
 <br/>
 <br/>
 
-<img src="./assets/images/photo_2.jpg" align="left" width="256" />
+<p align="center">
+  <img src="./assets/images/photo_2.jpg" width="256" />
+</p>
 
-<h4>🎨 UserStyles</h4>
+<h4 align="center">🎨 UserStyles</h4>
 
 <sup>[Google Calendar](https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css)</sup>  
 <sup>[Gmail](https://raw.githubusercontent.com/thiagobraga/gmail-userstyles/master/theme.user.css)</sup>  
@@ -32,6 +34,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" height="18" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="18" />
 </p>
+</div>
 
 <br/>
 
