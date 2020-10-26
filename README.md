@@ -1,5 +1,7 @@
 <h1 align="center">Thiago Braga</h1>
 
+<br/>
+
 <p align="center">
   <img src="./assets/images/photo.jpg" width="512" />
 </p>
