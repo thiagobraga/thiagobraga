@@ -1,7 +1,4 @@
-<h3 align="center">Thiago Braga</h3>
-
-<br/>
-<br/>
+<h1 align="center">Thiago Braga</h1>
 
 <p align="center">
   <img src="./assets/images/photo.jpg" width="512" />
