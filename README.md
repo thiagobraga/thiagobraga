@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/images/photo-agudos-2018-06-16.jpg" width="512" />
+  <img src="./assets/images/photo-agudos-2018-06-16.jpg" width="384" />
 </p>
 
 <h3 align="center">🎨 UserStyles</h3>
