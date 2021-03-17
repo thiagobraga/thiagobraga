@@ -46,9 +46,7 @@ Some of them:
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" height="22" />
 </p>
 
-<br>
-<br>
-<br>
+<br clear="both" />
 
 ## Some statistics
 
