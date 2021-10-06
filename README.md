@@ -58,4 +58,4 @@ Some of them:
 [4]: https://raw.githubusercontent.com/thiagobraga/todoist-userstyles/master/theme.user.css
 [5]: https://open.spotify.com/artist/4jThTw7lss5OnXBzwXYFSD
 [6]: https://open.spotify.com/artist/6mDkruhCYigOgLPIH9JJ0K
-[7]: https://github-readme-stats.vercel.app/api?username=thiagobraga&show_icons=true&theme=onedark
+[7]: https://github-readme-stats.vercel.app/api?username=thiagobraga&count_private=true&show_icons=true&theme=onedark
