@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="./assets/images/photo-agudos-2018-06-16.jpg" align="left" width="50%" />
+<img src="./assets/images/photo-agudos-2018-06-16.jpg" align="left" width="45%" />
 <img align="left" width="0" height="400px" hspace="10" />
 
 Hi, I'm **Thiago Braga**.  
@@ -49,10 +49,6 @@ Some of them:
 
 ![Github Stats][github-stats]
 
-[1]: https://github.com/thiagobraga/thiagobraga/issues
-[2]: https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css
-[3]: https://raw.githubusercontent.com/thiagobraga/gmail-userstyles/master/theme.user.css
-[4]: https://raw.githubusercontent.com/thiagobraga/todoist-userstyles/master/theme.user.css
 [5]: https://open.spotify.com/artist/4jThTw7lss5OnXBzwXYFSD
 [6]: https://open.spotify.com/artist/6mDkruhCYigOgLPIH9JJ0K
 [github-stats]: https://github-readme-stats.vercel.app/api?username=thiagobraga&show_icons=true&theme=nord&count_private=true
