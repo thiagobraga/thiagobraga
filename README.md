@@ -25,6 +25,7 @@ _Aka: Thiagão, Braga, ThiaGod_
 </a>
 
 <br>
+<br>
 
 I have been a programmer since 2009, and during that time
 I had contact with several tools and languages.
