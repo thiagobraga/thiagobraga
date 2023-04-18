@@ -47,8 +47,8 @@ Some of them:
 
 ## Projects
 
-[Dark theme for Google Calendar](https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css)
-[Dark theme for Gmail](https://raw.githubusercontent.com/thiagobraga/gmail-userstyles/master/theme.user.css)
+[Dark theme for Google Calendar](https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css)  
+[Dark theme for Gmail](https://raw.githubusercontent.com/thiagobraga/gmail-userstyles/master/theme.user.css)  
 
 ## Statistics
 
