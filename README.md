@@ -1,58 +1,93 @@
-# Thiago Braga
+<div align="center">
+  <h1>Thiago Braga</h1>
 
-<br>
+  <br>
 
-<img src="./assets/images/photo-agudos-2018-06-16.jpg" align="left" width="45%" />
-<img align="left" width="0" height="400px" hspace="10" />
+  <img src="./assets/images/photo-agudos-2018-06-16.jpg" align="center" width="300px" />
 
-Hi, I'm **Thiago Braga**.  
-_Aka: Thiagão, Braga, ThiaGod_
+  <br>
+  <br>
 
-<a href="https://linkedin.com/in/thiago-braga" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
-    alt="URL for Thiago Braga's LinkedIn"
-    height="20">
-</a>
-<a href="https://instagram.com/thiagobraga.dev" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="URL for Thiago Braga's Instagram"
-    height="20">
-</a>
-<a href="https://facebook.com/thiagobraga.dev" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-    alt="URL for Thiago Braga's Facebook"
-    height="20">
-</a>
+  Hi, I'm **Thiago Braga**  
+  <sup>`aka: Thiagão, Braga, ThiaGod`</sup>
 
-<br>
-<br>
+  <a href="https://linkedin.com/in/thiago-braga" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="URL for Thiago Braga's LinkedIn" height="24"></a>
+  <a href="https://instagram.com/thiagobraga.dev" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="URL for Thiago Braga's Instagram" height="24"></a>
+  <a href="https://facebook.com/thiagobraga.dev" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="URL for Thiago Braga's Facebook" height="24"></a>
 
-I have been a programmer since 2009, and during that time
-I had contact with several tools and languages.
-Some of them:
+  <br>
 
-<p>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777bb4.svg?&style=for-the-badge&logo=php&logoColor=white" height="22" />
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23ff2d20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="22" />
-  <img alt="Docker" src="https://img.shields.io/badge/docker%20-%23e1e1e1.svg?&style=for-the-badge&logo=docker&logoColor=0db7ed" height="22" />
-  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white" height="22" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="22" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="22" />
-  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="22" />
-  <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="22" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" height="22" />
-</p>
+  ![Github Stats][github-stats]
 
-<br clear="both" />
+  <br>
+  <br>
+  <br>
+
+  <sup>
+    I'm developer since 2009, guitarist since 2000<br>
+    and in the meantime I've worked with many companies,<br>
+    in different areas using various languages and frameworks.<br>
+    These are the main ones I've used in my career:
+  </sup>
+
+  <br>
+
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777bb4.svg?&style=flat-square&logo=PHP&logoColor=ffffff" height="24" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-ff2d20.svg?&style=flat-square&logo=Laravel&logoColor=ffffff" height="24" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330.svg?&style=flat-square&logo=javascript&logoColor=f7df1e" height="24" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853d.svg?&style=flat-square&logo=node.js&logoColor=ffffff" height="24" />
+
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <sup>
+    I also worked for a few years with these technologies,<br>
+    which I don't consider myself very experienced... but I can get by!
+  </sup>
+
+  <br>
+
+  <img alt="Python" src="https://img.shields.io/badge/Python-376b95.svg?&style=flat-square&logo=python&logoColor=fec335" height="24" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?&style=flat-square&logo=react&logoColor=61dafb" height="24" />
+  <img alt="React Native" src="https://img.shields.io/badge/React Native-20232a.svg?&style=flat-square&logo=react&logoColor=61dafb" height="24" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/VueJS-35495e.svg?&style=flat-square&logo=vue.js&logoColor=4fc08d" height="24" />
+  
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <sup>
+    And I really love CSS. In my spare time I like to create <b>dark themes</b><br>
+    for the websites I use most, mainly using Stylus preprocessor.
+  </sup>
+
+  <br>
+  
+  <img alt="Stylus" src="https://img.shields.io/badge/Stylus-6da13f.svg?&style=flat-square&logo=Stylus&logoColor=white" height="24" />
+  <img alt="SASS" src="https://img.shields.io/badge/Sass-cf649a.svg?&style=flat-square&logo=Sass&logoColor=white" height="24" />
+  <img alt="Less" src="https://img.shields.io/badge/Less-1d365d.svg?&style=flat-square&logo=Less&logoColor=white" height="24" />
+
+  <br>
+  <br>
+  <br>
+  <br>
+</div>
 
 ## Projects
 
-[Dark theme for Google Calendar](https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css)  
+<br>
+
+
 [Dark theme for Gmail](https://raw.githubusercontent.com/thiagobraga/gmail-userstyles/master/theme.user.css)  
 
-## Statistics
+<br>
 
-![Github Stats][github-stats]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagobraga&repo=google-calendar-userstyles)](https://github.com/thiagobraga/google-calendar-userstyles)  
+[Dark theme for Google Calendar](https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css)
+
 
 [5]: https://open.spotify.com/artist/4jThTw7lss5OnXBzwXYFSD
 [6]: https://open.spotify.com/artist/6mDkruhCYigOgLPIH9JJ0K
