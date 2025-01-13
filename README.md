@@ -76,19 +76,6 @@
   <br>
 </div>
 
-## Projects
-
-<br>
-
-
-[Dark theme for Gmail](https://raw.githubusercontent.com/thiagobraga/gmail-userstyles/master/theme.user.css)  
-
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagobraga&repo=google-calendar-userstyles)](https://github.com/thiagobraga/google-calendar-userstyles)  
-[Dark theme for Google Calendar](https://raw.githubusercontent.com/thiagobraga/google-calendar-userstyles/master/theme.user.css)
-
-
 [5]: https://open.spotify.com/artist/4jThTw7lss5OnXBzwXYFSD
 [6]: https://open.spotify.com/artist/6mDkruhCYigOgLPIH9JJ0K
 [github-stats]: https://github-readme-stats.vercel.app/api?username=thiagobraga&show_icons=true&theme=nord&count_private=true
