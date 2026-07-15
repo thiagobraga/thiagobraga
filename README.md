@@ -18,7 +18,7 @@
   <br>
 
   ![Github Stats][github-stats]
-
+  
   <br>
   <br>
   <br>
@@ -78,4 +78,4 @@
 
 [5]: https://open.spotify.com/artist/4jThTw7lss5OnXBzwXYFSD
 [6]: https://open.spotify.com/artist/6mDkruhCYigOgLPIH9JJ0K
-[github-stats]: https://github-readme-stats.vercel.app/api?username=thiagobraga&show_icons=true&theme=nord&count_private=true
+[github-stats]: https://github-stats-extended.vercel.app/api?username=thiagobraga&include_all_commits=true&theme=nord
